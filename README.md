@@ -1,7 +1,3 @@
-Project Smart Air Purifier: An air cleaner that tracks information and evaluates the levels of PM dust, temperature, humidity, gas in your home. This is a student project created by electrical technology students at Roi Et Technical College in Thailand.
-
-
-
 
 Email-Receveiver [ code สำรหับส่ง Email โดยการอ่านข้อมูลจาก Thingspeac ]
 
