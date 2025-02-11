@@ -36,8 +36,8 @@ bool shouldSaveConfig = false;
 // Variables to hold data from custom textboxes
 
 const char* host = "api.thingspeak.com";  // Host thingspeaks
-//const char* api = "ZRGFE9DDOHFZSSCI";     //API Key
-char testString[50] = "ZRGFE9DDOHFZSSCI";
+//const char* api = "";     //API Key
+char testString[50] = "=== API Thingspeak===";
 
 // Define WiFiManager Object
 WiFiManager wm;
