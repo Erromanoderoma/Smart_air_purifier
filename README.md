@@ -1,5 +1,12 @@
+Project Smart Air Purifier: An air cleaner that tracks information and evaluates the levels of PM dust, temperature, humidity, gas in your home. This is a student project created by electrical technology students at Roi Et Technical College in Thailand.
+
+
+
+
 Email-Receveiver [ code สำรหับส่ง Email โดยการอ่านข้อมูลจาก Thingspeac ]
+
 Master [ Board DOIT ESP32 DEVKITV1  master ตัวกลางการสื่อสารกับ board อื่นๆ ]
+
 Water_spray_machine [ Board Generic ESP8266 Module ]
 
 Smart_air_purifier [ Board DOIT ESP32 DEVKITV1  SMART_AIR_V3.1 
