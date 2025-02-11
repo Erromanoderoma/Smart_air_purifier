@@ -1,4 +1,8 @@
-ECHO_SMART_AIR_V3.1 
+Email-Receveiver [ code สำรหับส่ง Email โดยการอ่านข้อมูลจาก Thingspeac ]
+Master [ Board DOIT ESP32 DEVKITV1  master ตัวกลางการสื่อสารกับ board อื่นๆ ]
+Water_spray_machine [ Board Generic ESP8266 Module ]
+
+Smart_air_purifier [ Board DOIT ESP32 DEVKITV1  SMART_AIR_V3.1 
  - ปรับการเก็บข้อมูลเพื่อคำนวนค่า AQI จาก 24h. เป็น 5minut เพื่อลดภาระของระบบ
  - ปรับ code ให้ใช้งานร่วมกับ " project Development of smart air purifiers "
  - เพิ่มระบบ ป้องกันหากอุณหภูมิ MCU ESP32 สูงเกินไปพัดลมจะทำงานเพื่อลดอุณหภูมิในระบบ  โดยอ่านค่าอุณหภูมิจากเซ็นเซอร์ภายใน ESP32
@@ -9,3 +13,4 @@ ECHO_SMART_AIR_V3.1
          **ใช้ sensor DH22 ประกอบการทำงานผ่านตัวแปร "temperature_sensor"
 
   Sketch ใช้พื้นที่จัดเก็บโปรแกรม 920,513 ไบต์ (70%) พื้นที่สูงสุดคือ 1310,720 ไบต์
+  ]
